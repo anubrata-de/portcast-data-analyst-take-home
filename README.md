@@ -1,3 +1,13 @@
+<!-- portfolio
+title: Portcast Data Analyst Intern
+tagline: Take-Home Case Study
+category: Business and data analysis
+summary: Traced a container's 7-day delay to a missed connection at Singapore, estimated what inaccurate ETAs cost a manufacturer each year, and reviewed an AI-written plan to integrate 50+ tracking feeds.
+tags: SQL, Python, Root-cause analysis, Estimation
+slug: portcast-take-home
+featured: yes
+-->
+
 # Portcast Data Analyst Intern: take-home assignment
 
 My submission for the Data Analyst Intern take-home at [Portcast](https://www.portcast.io), a company that predicts and tracks container shipments. The assignment has three self-contained parts:
